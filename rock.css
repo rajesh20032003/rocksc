@@ -1,0 +1,61 @@
+body{
+  background-color: rgb(154, 81, 81);
+  color:white;
+  font-family: arial;
+}
+
+.cont{
+  
+  margin:100px;
+}
+
+
+
+.title{
+  font-size:35px;
+  font-weight:bold;
+}
+.result{
+  font-size: 30px;
+  font-weight: bold;
+  margin-top:50px ;
+}
+
+.btn-mv{
+  background-color: transparent transparent;
+  border: 3px solid gray;
+  width:120px;
+  height:120px;
+  border-radius:60px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.mo-btn{
+  height:100px;
+
+}
+
+.moves1{
+  height:70px;
+
+  
+  
+}
+
+.final{
+  font-weight: bold;
+  color:black;
+  font-size: 50px;
+}
+.result{
+  font-weight: bold;
+  color:aqua;
+  font-size:40px;
+
+}
+.mv{
+  font-size: 30px;
+  font-weight: bold;
+  color:rgb(178, 151, 81);
+}
